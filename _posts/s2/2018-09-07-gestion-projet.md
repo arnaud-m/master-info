@@ -29,8 +29,10 @@ header:
 ---
 
 L’objectif est de poursuivre l’apprentissage du Génie Logiciel commencé au semestre 1 dans les cours Projet de Développement et Génie Logiciel. 
-Les notions clés abordées dans ce cours sont l’intégration continue et le déploiement automatique. 
-Finalement, l’exposition en tant que Web Service permet d’appréhender la notion d’interopérabilité, tout en abordant des problématiques d’architectures stateful/stateless.
+Les notions clés abordées dans ce cours sont :
+- l'architecture logicielle pour l'interopérabilité (Web Services, architecture REST, principes stateful/stateless)
+- les tests d'intégration et l'approche BDD (Behavior-Driven Development)
+- l’intégration continue et le déploiement automatique (serveur d'intégration continue, containerisation)
 
 ### Modalités de contrôle des connaissances ###
  - Contrôles : 1 Contrôle continu minimum.
