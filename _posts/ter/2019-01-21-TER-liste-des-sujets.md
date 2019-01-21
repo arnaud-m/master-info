@@ -203,3 +203,22 @@ Cette communication passera par une queue de message RabbitMQ.
 Il existe de nombreuses variantes du Rubik's Cube, dont la complexité peut être évaluée via une exploration exhaustive de tous les mélanges possibles et de la manière de passer de l'un à l'autre. Un exemple parlant est celui du Rubik's Cube, pour lequel il est connu que le « Nombre de Dieu » est 20, ce qui signifie que tout mélange peut être résolu via une combinaison d'au plus 20 mouvements.
 
 Le but de ce projet sera de mener une étude similaire sur une variante récente du Rubik's Cube, le Redi Cube, pour laquelle le nombre de Dieu n'est, à ma connaissance, pas encore connu. En plus de l'aspect « exploration exhaustive », on pourra s'intéresser à des aspects annexes, comme la recherche de méthodes pour résoudre le Redi Cube, la création d'une interface graphique pour faciliter l'utilisation, etc.
+
+
+### ∆-Debugger de solveur de satisfiabilité en logique propositionnelle
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [ Valentin Montmirail](valentin.montmirail@univ-cotedazur.fr) et [ Marie Pelleau](marie.pelleau@unice.fr)
+ 
+ L'écriture de solveur de satisfiabilité, qu'importe la logique, est une tâche extrêmement compliquée. 
+Le développement peut donc impliquer des bugs très difficile à découvrir.
+
+Une manière de déboguer automatiquement un solveur est de réaliser ce que l'on appelle un débogage delta.
+Une seule hypothèse est effectuée : nous connaissons à l'avance le résultat attendu sur un jeu de tests t.
+
+Nous lançons donc le solveur bogué sur le test t. Seulement, le solveur ne renvoie pas le résultat attendu.
+Nous pouvons donc simplifier le test t, en supprimant certaines parties par exemple, afin d'obtenir un test t' qui a moins de chance de déclencher le bug dans le solveur. Si ce coup-ci le solveur répond correctement, alors le plus petit problème qui déclenche le bug est t, sinon nous avons trouvé un nouveau problème t', plus petit, qui déclenche le bug. Nous pouvons donc considéré que t = t' et recommencer ainsi toute la procédure. Cette procédure boucle tant que nous pouvons supprimer des parties dans t et que le solveur répond toujours de manière incorrecte.
+
+- Références:
+  - [Zel01] Andreas Zeller. Automated debugging : Are we close. IEEE Computer, 34(11) :26–31, 2001.
+  - [Zel05] Andreas Zeller. Why Programs Fail : A Guide to Systematic Debugging. Morgan Kauf- mann Publishers Inc., San Francisco, CA, USA, 2005.
+
