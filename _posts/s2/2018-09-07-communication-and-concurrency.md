@@ -32,14 +32,17 @@ header:
 
 ### Description ###
 
-La liste de thèmes abordés pendant le cours change chaque année. Les sujets peuvent inclure : l’introduction des formalismes pour le message passing et la mémoire partagée (réseaux de Petri, algèbres de processus, automates communicants et temporisés…) ainsi que des techniques pour raisonner sur de tels systèmes (techniques de bisimulation, types de sessions, logiques, invariants…).
+The aim of this course is to introduce mathematical formalisms for modelling and reasoning about properties of parallel, reactive systems. The list of precise topics covered by the cours changes every year. Topics may include models of message passing and shared memory concurrency (Petri nets, process algebras, communicating and timed automata) as well as formalisms to reason on such systems (bisimulation techniques, session types, logics, invariants…).
 
-Thèmes (liste non exhaustive) :
-  - Labelled transition systems
-  - CCS, pi-calcul
-  - Automates communicants et temporisés
-  - Bisimulation et types de sessions
-  - Réseaux de Petri et leur invariants
+Topics (non exhaustive list):
+- Labelled transition systems
+- CCS, pi-calculus
+- Communicating and Timed automata
+- Bisimulation and Session types
+- Petri nets and invariants
+
+Presentation of the cours (slides): {% include link-asset asset="slideDiGiusto.pdf" %}
+Le materiel du cours est disponible sur https://lms.univ-cotedazur.fr
 
 
 ### Calendrier ###
@@ -47,6 +50,10 @@ Thèmes (liste non exhaustive) :
 ### Cours ###
 
 ### Modalités de contrôle des connaissances ###
+Final exam: 75%
+Project or report: 25%
 
 ### Ressources ###
-
+R. Milner, *Communication and conurrency*, Prentice-Hall, 1989
+Davide Sangiorgi, David Walker, *The Pi-Calculus: A Theory of Mobile Processes*, Cambridge University Press, 2003
+J.A. Bergstra, A. Ponse, S.A. Smolka, *Handbook of Process Algebra*, Elsevier, 2001
