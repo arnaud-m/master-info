@@ -6,7 +6,7 @@ layout: syllabus
 subheadline: "F. Mallet, PR"
 title: "Programmation Synchronisée"
 logo: "logo_blanc.png"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+teaser: "Le cours offre une introduction à la programmation synchrone en mélangeant les approches déclaratives, flots de données ou basées sur les états."
 categories:
   - S2
 tags:
@@ -14,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "frederic.mallet@unice.fr"
+email: "frederic.mallet@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -31,10 +31,12 @@ header:
 
 ### Description ###
 
-### Calendrier ###
-
-### Cours ###
+- programmation synchrone
+- Approches flots de données
+- Approches basées sur les états
+- Approches déclaratives
+- Temps logique vs. Temps Physique
 
 ### Modalités de contrôle des connaissances ###
 
-### Ressources ###
+- Examen 
