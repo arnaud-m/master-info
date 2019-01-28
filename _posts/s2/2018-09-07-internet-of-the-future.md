@@ -4,17 +4,17 @@ layout: syllabus
 # Content
 #
 subheadline: "R. Aparicio, MCF"
-title: "Computer networks"
+title: "Internet of the future"
 logo: "logo_blanc.png"
 teaser: "This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
 categories:
-  - S1
+  - S2
 tags:
   - OPT
   - EN
 ects: 3
 schedule: "24h"
-website: "http://www.i3s.unice.fr/~raparicio/m1_compnetw/"
+website: "http://www.i3s.unice.fr/~raparicio/teaching/IoF/"
 email: "ramon.aparicio-pardo@unice.fr"
 #
 # Styling
