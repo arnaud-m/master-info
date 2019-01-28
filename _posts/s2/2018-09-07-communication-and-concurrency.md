@@ -14,7 +14,7 @@ tags:
   - EN
 ects: 3
 schedule: "24h"
-# website: "#"
+website: "https://lms.univ-cotedazur.fr"
 email: "cinzia.di-giusto@unice.fr"
 #
 # Styling
@@ -41,8 +41,8 @@ Topics (non exhaustive list):
 - Bisimulation and Session types
 - Petri nets and invariants
 
-Presentation of the cours (slides): {% include link-asset asset="slideDiGiusto.pdf" %}
-Le materiel du cours est disponible sur https://lms.univ-cotedazur.fr
+Presentation of the cours ([slides]({% include link-asset asset="slideDiGiusto.pdf" %}))
+
 
 
 ### Calendrier ###
