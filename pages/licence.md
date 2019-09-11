@@ -60,13 +60,18 @@ En L1 et L2, les étudiants peuvent choisir plusieurs matières scientifiques, p
 Pour valider une année il faut valider suffisemment de crédits ECTS pour dépasser une certaine barre; il y a en fait plusieurs barres qui dépendent du type d'unité d'enseignement et de l'année en question. Il existe aussi des règles de compensation. Toutes ces règles sont détaillées par année sur le site.
 
 ### Nouveaux entrants
-**ATTENTION** Les dossiers de candidature sont à envoyer par les plate-formes adéquates (parcoursup, ecandidat, etudes en France, etc), mais **jamais par mail aux responsable d'année**. Les renseignements sur les démarches à effectuer sont fournis par le [service scolarité](http://unice.fr/faculte-des-sciences/scolarite/dossiers-de-candidature) de la faculté de science.
+**ATTENTION** Les dossiers de candidature sont à envoyer par les plate-formes adéquates (parcoursup, ecandidat, etudes en France, etc), mais **jamais par mail aux responsables d'année**. Les renseignements sur les démarches à effectuer sont fournis par le [service scolarité](http://unice.fr/faculte-des-sciences/scolarite/dossiers-de-candidature) de la faculté de science.
 
 - L'admission en L1 est quasiment automatique pour tous les bacheliers français
 - L'admission en L2 sans avoir suivi la L1 se fait par candidature. Les candidatures sont examinées par les responsables du **portail science**, dont un référent du département informatique.
-- L'admission en L3 informatique se fait par candidature. Les candidatures sont examinées par le responsable de la L3 informatique. 
+- L'admission en L3 informatique sans avoir suivi la L2 parcours informatique se fait par candidature. Les candidatures sont examinées par le responsable de la L3 informatique. 
 
-Les candidatures L2 et L3 sont sélectives. Les étudiants français admis en L3 ont généralement effectué une classe préparatoire, ont obtenu de un DUT avec une moyenne supérieure à 12, ou ont fait un excellent BTS, et dans tous les cas ont suivi de nombreux cours d'informatique, y compris d'informatique théorique.
+Les candidatures L2 et L3 sont sélectives. Les étudiants français admis en L3 ont généralement, au choix,  
+- effectué une classe préparatoire ou une année en école d'ingénieur, 
+- obtenu un DUT avec une moyenne supérieure à 12, 
+- obtenu un BTS avec d'excellentes notes.
+De plus, dans tous les cas, les candidatures retenues sont celles d'étudiants 
+qui  ont suivi de nombreux cours d'informatique, y compris d'informatique théorique, permettant de prétendre à une équivalence avec les cours de L1 et L2.
 
 
 
@@ -80,7 +85,7 @@ Afin d'obtenir la licence informatique, il est recommandé de suivre tous les co
 
 ### Non cumul des options
 
-Certains cours sont des cours d'option: l'étudiant doit choisir l'un des cours parmi une liste de deux, parfois trois, cours. Il n'est pas prévu qu'il
+Certains cours sont des cours d'option: l'étudiant doit choisir l'un des cours parmi une liste de deux cours. Il n'est pas prévu qu'il
 suive plusieurs cours d'une même liste en même temps.
 
 Cependant, il est possible (en particulier, pour un redoublant) de valider
